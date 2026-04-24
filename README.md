@@ -42,35 +42,6 @@ I'm a passionate Full Stack Developer specializing in modern web technologies an
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 
----
-
-### 💼 Featured Projects
-
-#### 🔹 [Project Name 1](https://github.com/yourusername/project1)
-**Tech Stack:** React, Node.js, PostgreSQL, Docker  
-A comprehensive description of your project, highlighting the key features, challenges solved, and technologies used. Focus on the impact and technical achievements.
-
-#### 🔹 [Project Name 2](https://github.com/yourusername/project2)
-**Tech Stack:** Next.js, TypeScript, MongoDB, AWS  
-Brief description of this project, emphasizing scalability, performance optimizations, or any innovative solutions implemented.
-
-#### 🔹 [Project Name 3](https://github.com/yourusername/project3)
-**Tech Stack:** Vue.js, Python, FastAPI, Redis  
-Description highlighting the problem solved, your role, and the technical decisions that made the project successful.
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Paul-Shaji&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paul-Shaji&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
-</div>
-
----
 
 ### 🤝 Let's Connect
 
